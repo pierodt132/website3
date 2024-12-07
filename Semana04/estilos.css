@@ -1,0 +1,37 @@
+body,h1,h2,h3,h4{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+h1{
+    font-family: "propios", sans-serif;
+    font-weight: 700;
+    font-family: normal;
+}
+h2,h3,h4{
+    font-family: "propios", sans-serif;
+    font-weight: 400;
+    font-family: italic;
+}
+p{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+.encabezado{
+    background-color:#D1C3F4;
+    height: 150px;
+
+}
+nav{
+    background-color: #D1C3F4;
+}
+main{
+    background-color: #78CCF5;
+}
+footer{
+    background-color: #679AF5;
+    height: 150px;
+}
